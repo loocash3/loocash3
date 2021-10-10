@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/-JS-yellow?style=for-the-badge&logo=none
-https://img.shields.io/badge/-REACT-blue?style=for-the-badge&logo=none
-https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=none
-https://img.shields.io/badge/-GraphQL-pink?style=for-the-badge&logo=none
+![](https://img.shields.io/badge/-JS-yellow?style=for-the-badge&logo=none)
+![](https://img.shields.io/badge/-REACT-blue?style=for-the-badge&logo=none)
+![](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=none)
+![](https://img.shields.io/badge/-GraphQL-pink?style=for-the-badge&logo=none)
 
 
 <!--
